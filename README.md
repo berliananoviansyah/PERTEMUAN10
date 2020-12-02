@@ -8,7 +8,7 @@
 
 # Lab 6 
 
-![Tugas10](Foto/ft1.PNG)
+![Tugas10](Foto/Ft1.PNG)
 
 Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
