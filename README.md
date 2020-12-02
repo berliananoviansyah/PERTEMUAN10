@@ -8,7 +8,7 @@
 
 # Lab 6 
 
-![Tugas10](Foto/foto1.png)
+![Tugas10](Foto/ft1.PNG)
 
 Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
@@ -160,10 +160,10 @@ print("Keluar")
 
 Terakhir kita akan mencetak hasil dari program yang telah dibuat
 
-![hasil](Foto/foto2.PNG)
+![hasil](Foto/ft2.PNG)
 
 Hasil Flowchart seperti berikut ini :
 
-![Flowchart](Foto/foto3.png)
+![Flowchart](Foto/ft3.png)
 
 # TERIMA KASIH
